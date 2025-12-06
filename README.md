@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"></p>
+<p align="center"> </p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">🏗️ Architecture & Design:</h3>
+<h2 align="left">🏗️ Architecture & Design:</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🛡️ Reliability & Safety:</h3>
+<h2 align="left">🛡️ Reliability & Safety:</h2>
 
 ###
 
