@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> </p>
+<p align="center"></p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center"> </p>
+<p align="center"></p>
 
 ###
 
@@ -87,7 +87,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="83" height="64" alt="youtube logo"  />
+  <a href="https://youtu.be/TbtLcHgolsY?si=YqDS0BiFdCN7ih4J" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="83" height="64" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
